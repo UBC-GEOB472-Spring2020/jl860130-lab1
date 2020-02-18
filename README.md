@@ -1,6 +1,5 @@
 # jl860130-lab1
-  https://raw.githubusercontent.com/UBC-GEOB472-Spring2020/jl860130-lab1/master/map%20capture%20.png
-  
+![](images/lab1.png)
   
   Link to mapBox: https://api.mapbox.com/styles/v1/jl860130/ck6rasny6354u1inthsy0wjkw.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamw4NjAxMzAiLCJhIjoiY2s2b2pqZ29hMWM2YTNta2cyNHlwNHJwYSJ9.ettt6Rh0BMqhNYXTWhtTIA
   
