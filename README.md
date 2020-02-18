@@ -1,5 +1,7 @@
 # jl860130-lab1
-  Link: https://api.mapbox.com/styles/v1/jl860130/ck6rasny6354u1inthsy0wjkw.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamw4NjAxMzAiLCJhIjoiY2s2b2pqZ29hMWM2YTNta2cyNHlwNHJwYSJ9.ettt6Rh0BMqhNYXTWhtTIA
+  Link to mapBox: https://api.mapbox.com/styles/v1/jl860130/ck6rasny6354u1inthsy0wjkw.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamw4NjAxMzAiLCJhIjoiY2s2b2pqZ29hMWM2YTNta2cyNHlwNHJwYSJ9.ettt6Rh0BMqhNYXTWhtTIA
+  
+  Link to map: https://jl860130.github.io/jl860130-web/index.html
   
   Vancouver is a beautiful and multicultural city. In this spectacular city, there are different types of food that could be found. People from other countries even state that their native food in Vancouver is more delicious than in their native countries. According to Food Services Industry, there are more than 5,000 restaurants in Greater Vancouver right now. There are: American, Italian, Chinese, Japanese, Indian, Korean…etc. In this case, the residents in Vancouver usually face a serious question during the lunch and dinner time: What should I eat today? Therefore, I decided to create this map: Vancouver Top 10 Restaurants. In this map, 10 of the best restaurants are listed, and the clear detail is also displayed to help the map users to make their best decision. This map could potentially save the users’ time on deciding what to eat. 
   
